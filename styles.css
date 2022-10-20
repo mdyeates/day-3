@@ -1,0 +1,14 @@
+.content {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+section img {
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+section h1 {
+    color: aqua;
+    background-color: black;
+}
